@@ -1,18 +1,21 @@
 {
-    "name": "mayomixin",
-    "description": "",
-    "version": "0.0.1",
-    "homepage": "",
-    "author": {
-        "name": "",
-        "email": ""
-    },
-    "repository": {
-        "type": "git",
-        "url": ""
-    },
-    "engines": {
-        "node":"0.11.x",
-        "npm":"^2.1.0"
-    }
+  "name": "mayomixin",
+  "description": "",
+  "version": "0.0.1",
+  "homepage": "",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "0.11.x",
+    "npm": "^2.1.0"
+  },
+  "dependencies": {
+    "express": "^4.13.1"
+  }
 }
