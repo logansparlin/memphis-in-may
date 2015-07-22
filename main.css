@@ -153,6 +153,7 @@ p {
 #right-column .article-container .thumbnail-image.grand_champion {
   background: url("../img/grand_champion.jpg") no-repeat;
   background-size: cover;
+  background-position: bottom center;
 }
 #right-column .article-container .thumbnail-image.epic_bbq {
   background: url("../img/epic_bbq.jpg") no-repeat;
@@ -186,4 +187,10 @@ p {
   margin: 0;
   font-size: 14px;
   line-height: 18px;
+}
+.signoff {
+  padding: 20px 0;
+}
+.signoff a {
+  color: #9c7e22;
 }
