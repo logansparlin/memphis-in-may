@@ -190,4 +190,7 @@ p {
 }
 .r-ball {
   font-size: 60%;
+  vertical-align: top;
+  position: relative;
+  top: -5px;
 }
