@@ -145,24 +145,24 @@ p {
   box-shadow: rgba(0,0,0,0.3) 0 0 10px;
 }
 #right-column .article-container .thumbnail-image.grand_champion {
-  background: url("../img/grand_champion.jpg") no-repeat;
+  background: url("../img/grand_champion.jpg")no-repeat;
   background-size: cover;
   background-position: top center;
 }
 #right-column .article-container .thumbnail-image.epic_bbq {
-  background: url("../img/epic_bbq.jpg") no-repeat;
+  background: url("../img/epic_bbq.jpg")no-repeat;
   background-size: cover;
 }
 #right-column .article-container .thumbnail-image.contest_innovations {
-  background: url("../img/contest_innovations.jpg") no-repeat;
+  background: url("../img/contest_innovations.jpg")no-repeat;
   background-size: cover;
 }
 #right-column .article-container .thumbnail-image.crowd {
-  background: url("../img/crowd.jpg") no-repeat;
+  background: url("../img/crowd.jpg")no-repeat;
   background-size: cover;
 }
 #right-column .article-container .thumbnail-image.bottles {
-  background: url("../img/bottles.jpg") no-repeat;
+  background: url("../img/bottles.jpg")no-repeat;
   background-size: cover;
   background-position: bottom center;
 }
